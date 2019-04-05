@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("hello git");
         System.out.println("hello git");
         System.out.println("day1");
+        System.out.println("我想提交到主干");
     }
 }
